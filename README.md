@@ -8,6 +8,7 @@ iPass is a simple to use VB application used to crack and output an iPhone, iPod
 How to use:
 -----------
 Download redsn0w and place redsn0w.exe in /builds/common/files/tools/redsn0w/
+
 Copy the contents of /builds/common/ to the builds folder and run iPass.exe
 
 Credit:
